@@ -1,4 +1,4 @@
-Here is full architecture of components : 
+Here is full architecture of components with name of all the components : 
 src/
 ├── components/
 │   ├── EmployeeForm.jsx    
